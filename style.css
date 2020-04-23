@@ -63,6 +63,7 @@ body {
     height: 250px;
     width: 328px;
     display: inline-block;
+    float: left;
 }
 
 
@@ -72,4 +73,5 @@ body {
     height: 250px;
     width: 512px;
     display: inline-block;
+    float: right;
 }
